@@ -1,4 +1,4 @@
-# File Organizer
+# Downloaded Files Automator
 
 This script is designed to organize files within a specified source directory into various destination directories based on their file types. It automatically detects newly modified files and moves them to appropriate folders according to their extensions, such as images, videos, audio files, and documents.
 
