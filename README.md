@@ -1,4 +1,4 @@
-# Downloaded Files Automator
+# File Organizer
 
 This script is designed to organize files within a specified source directory into various destination directories based on their file types. It automatically detects newly modified files and moves them to appropriate folders according to their extensions, such as images, videos, audio files, and documents.
 
@@ -13,6 +13,11 @@ This script is designed to organize files within a specified source directory in
 
 - Python 3.x installed on your system.
 - Required Python packages can be installed using `pip`. You can install them by running:
+**install**:
+- Run this command
+    ```
+    pip install watchdg
+    ```
 
 ## Usage
 
@@ -23,7 +28,7 @@ This script is designed to organize files within a specified source directory in
 2. **Execution**:
  - Run the script using Python:
    ```
-   python file_name.py
+   python file_organizer.py
    ```
 
 3. **Operation**:
@@ -40,6 +45,5 @@ This script is designed to organize files within a specified source directory in
 - `source_dir`: The directory path where files are monitored for organization.
 - `dest_dir_music`, `dest_dir_videos`, `dest_dir_images`, `dest_dir_docs`: Destination directories for different types of files.
 - Supported file extensions for images, videos, audio files, and documents can be modified as per your requirements.
-
 
 
