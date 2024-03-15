@@ -23,7 +23,7 @@ This script is designed to organize files within a specified source directory in
 2. **Execution**:
  - Run the script using Python:
    ```
-   python file_organizer.py
+   python file_name.py
    ```
 
 3. **Operation**:
