@@ -16,7 +16,7 @@ This script is designed to organize files within a specified source directory in
 **install**:
 - Run this command
     ```
-    pip install watchdg
+    pip install watchdog
     ```
 
 ## Usage
